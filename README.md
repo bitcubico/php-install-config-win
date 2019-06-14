@@ -27,3 +27,5 @@ Debemos añadir un par de líneas de configuración del módulo de Apache.
 Agregue al directorio de apache un archivo llamado **`info.php`** con el siguiente código:
 **`<?php phpinfo(); ?>`**
 **En el navegador web** navegue a la url **`localhost/info.php`** para verificar que **PHP** es interpretado y bien configurado.
+
+[**Ver cómo configurar APACHE**](https://github.com/bitcubico/apache-install-config-win/blob/master/README.md)
